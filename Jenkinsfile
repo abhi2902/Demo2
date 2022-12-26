@@ -30,7 +30,7 @@ pipeline {
       stage('GoodBye...') {
             steps {
                 
-                sh 'GoodBye...'
+                sh 'echo GoodBye...'
 
             }
 
